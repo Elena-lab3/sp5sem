@@ -1,0 +1,5 @@
+﻿  Lab8.cpp
+D:\953506\5 sem\sp\SP\lab3\Lab8.cpp(133,17): warning C4101: ps: неиспользованная локальная переменная
+D:\953506\5 sem\sp\SP\lab3\Lab8.cpp(216,19): warning C4101: arr: неиспользованная локальная переменная
+D:\953506\5 sem\sp\SP\lab3\Lab8.cpp(225,19): warning C4101: arr: неиспользованная локальная переменная
+  Lab8.vcxproj -> D:\953506\5 sem\sp\SP\lab3\x64\Debug\Lab8.exe

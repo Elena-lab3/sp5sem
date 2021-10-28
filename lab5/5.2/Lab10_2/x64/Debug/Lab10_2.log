@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+D:\953506\5 sem\sp\SP\lab5\5.2\Lab10_2\stdafx.h(7,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+D:\953506\5 sem\sp\SP\lab5\5.2\Lab10_2\stdafx.cpp : message : см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+  Lab10_2.cpp
+  Lab10_2.vcxproj -> D:\953506\5 sem\sp\SP\lab5\5.2\x64\Debug\Lab10_2.exe

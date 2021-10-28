@@ -1,0 +1,6 @@
+﻿  Lab7.cpp
+D:\953506\5 sem\sp\SP\lab2\Lab7.cpp(207,33): warning C4244: =: преобразование "LRESULT" в "WORD", возможна потеря данных
+D:\953506\5 sem\sp\SP\lab2\Lab7.cpp(221,30): warning C4244: =: преобразование "LRESULT" в "INT", возможна потеря данных
+D:\953506\5 sem\sp\SP\lab2\Lab7.cpp(232,30): warning C4244: =: преобразование "LRESULT" в "INT", возможна потеря данных
+D:\953506\5 sem\sp\SP\lab2\Lab7.cpp(236,30): warning C4244: =: преобразование "LRESULT" в "INT", возможна потеря данных
+  Lab7.vcxproj -> D:\953506\5 sem\sp\SP\lab2\x64\Debug\Lab7.exe
